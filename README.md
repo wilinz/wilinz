@@ -29,7 +29,7 @@ I am a tech enthusiast. My technical stack involves Java, Kotlin, Golang, Flutte
 
 
 <a target="_blank" align="center">
-  <img align="left" width=250px height="250px" talt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />  
+  <img align="left" width=250px height="250px"  style="margin-right:25px;" talt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />  
 </a>&nbsp;
 <br/>
 
