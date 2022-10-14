@@ -10,7 +10,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="30px">&nbsp;***About me***
 
-I am a tech enthusiast. My technical stack involves Java, Kotlin, Golang, Flutter, Dart, Python, JavaScript, TypeScript, HTML, CSS. I love to learn and build something new, productive, innovative and creative.
+I am a tech enthusiast. My technical stack involves Java, Kotlin, Android, Jetpack, Jetpack Compose, Golang, Flutter, Dart, Python, JavaScript, TypeScript, HTML, CSS. I love to learn and build something new, productive, innovative and creative.
 
 - 🔥 **I am interested in Android development, and Flutter cross-platform development**
 - 🌱 I’m currently learning ...
