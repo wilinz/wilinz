@@ -53,13 +53,6 @@ I am a tech enthusiast. My technical stack involves Java, Kotlin, Android, Jetpa
 <br/>
 <br/>
 
-## Github Analytics 📝
-<div align="center">
-  <a href="https://github.com/sonpxp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonpxp&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonpxp&layout=compact&langs_count=7&theme=buefy"/>
-</div>
-
 ##
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
 
