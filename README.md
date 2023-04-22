@@ -12,7 +12,7 @@
 
 I am a tech enthusiast. My technical stack involves Java, Kotlin, Android, Jetpack, Jetpack Compose, Golang, Flutter, Dart, Python, JavaScript, TypeScript, HTML, CSS. I have a certain understanding of Linux, tcpip protocol stack, http and other protocols. I am familiar with mysql, redis database. I love to learn and build something new, productive, innovative and creative.
 
-- 🥰 What i know best：Android development and Android System
+- 🥰 What i know best：Android development, Android System, Kotlin, Java, Golang, Dart
 - 🔥 **I am interested in Android development, and Flutter cross-platform development**
 - 🌱 I’m currently learning ...
   - Flutter cross-platform development
