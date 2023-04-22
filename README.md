@@ -10,11 +10,13 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="30px">&nbsp;***About me***
 
-I am a tech enthusiast. My technical stack involves Java, Kotlin, Android, Jetpack, Jetpack Compose, Golang, Flutter, Dart, Python, JavaScript, TypeScript, HTML, CSS. I love to learn and build something new, productive, innovative and creative.
+I am a tech enthusiast. My technical stack involves Java, Kotlin, Android, Jetpack, Jetpack Compose, Golang, Flutter, Dart, Python, JavaScript, TypeScript, HTML, CSS. I have a certain understanding of Linux, tcpip protocol stack, http and other protocols. I am familiar with mysql, redis database. I love to learn and build something new, productive, innovative and creative.
 
+- 🥰 What i know best：Android development and Android System
 - 🔥 **I am interested in Android development, and Flutter cross-platform development**
 - 🌱 I’m currently learning ...
   - Flutter cross-platform development
+- 🔮 Future study plan: Rust language and Artificial intelligence(AI)
 - 👯 I’m looking forward to collaborate on open source projects.
 - 📫 Reach out to me at <a href="sonpxp@gmail.com">weilizan71@gmail.com</a>
 - 🏡 Website: [https://www.wilinz.com](https://www.wilinz.com)
