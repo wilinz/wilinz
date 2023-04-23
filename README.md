@@ -62,13 +62,12 @@ I am a tech enthusiast. My technical stack involves Java, Kotlin, Android, Jetpa
 
 #### Top Repositories
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+| <a href="https://github.com/wilinz/easy_write">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilinz&repo=easy_write&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+</a> | <a href="https://github.com/wilinz/yuetingmusic">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilinz&repo=yuetingmusic&theme=buefy" />
-</a>
+</a> |
+| ------------- | ------------- |
 
 <br />
 <br />
