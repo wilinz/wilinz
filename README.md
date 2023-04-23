@@ -55,12 +55,12 @@ I am a tech enthusiast. My technical stack involves Java, Kotlin, Android, Jetpa
 <br/>
 <br/>
 
-<a href="https://github.com/AiEson">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilinz&hide=HTML,typescript&theme=buefy" />
-</a>
-<a href="https://github.com/AiEson">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wilinz&show_icons=true&theme=buefy&line_height=27" />
-</a>
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wilinz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilinz&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
 
 ##
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
