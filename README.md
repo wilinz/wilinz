@@ -15,7 +15,7 @@ I am a tech enthusiast. My technical stack involves Java, Kotlin, Android, Jetpa
 - 🥰 What i know best：Android development, Android System, Kotlin, Java, Golang, Dart, Flutter
 - 🔥 **I am interested in Android development, and Flutter cross-platform development**
 - 🌱 I’m currently learning ...
-  - Flutter cross-platform development
+  - Nothing
 - 🔮 Future study plan: Rust language and Artificial intelligence(AI)
 - 👯 I’m looking forward to collaborate on open source projects.
 - 📫 Reach out to me at <a href="sonpxp@gmail.com">weilizan71@gmail.com</a>
