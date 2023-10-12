@@ -10,7 +10,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="30px">&nbsp;***About me***
 
-I am a tech enthusiast. My technical stack involves Java, Kotlin, Android, Jetpack, Jetpack Compose, Golang, Flutter, Dart, Python, JavaScript, TypeScript, HTML, CSS, C, C++. I have a certain understanding of Linux, tcpip protocol stack, http and other protocols. I am familiar with mysql, redis database. I love to learn and build something new, productive, innovative and creative.
+I am a tech enthusiast. My technical stack involves Java, Kotlin, Android, Jetpack, Jetpack Compose, Golang, Flutter, Dart, Python, JavaScript, TypeScript, HTML, CSS, C, C++, Android reverse engineering(xposed, frida, jadx, etc...). I have a certain understanding of Linux, tcpip protocol stack, http and other protocols. I am familiar with mysql, redis database. I love to learn and build something new, productive, innovative and creative.
 
 - 🥰 What i know best：Android development, Android System, Kotlin, Java, Golang, Dart, Flutter
 - 🔥 **I am interested in Android development, and Flutter cross-platform development**
